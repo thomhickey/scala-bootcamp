@@ -1,0 +1,29 @@
+.sidebarblock {
+  width: 50%;
+  float: right;
+}
+
+.sidebarblock .content {
+  background-color: #eeeeee !important;
+}
+
+.admonitionblock {
+}
+
+.admonitionblock .content {
+  width: 100% !important;
+  float: right;
+  background-color: #eeeeee !important;
+  padding: 5px;
+  border-radius: 5px !important;
+}
+
+.admonitionblock .listingblock {
+  width: 90% !important;
+  margin-left: 20px;
+}
+
+tt strong {
+  font-family: monospace !important;
+  font-weight: bold;
+}
